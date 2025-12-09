@@ -37,7 +37,7 @@ export default function AboutPage() {
             >
               <h2 className="content-title">Our Story</h2>
               <p className="content-text">
-                PHLOX was founded with a vision to bring the latest and greatest
+                EARMA was founded with a vision to bring the latest and greatest
                 in technology to consumers worldwide. We believe that everyone
                 deserves access to premium electronics that enhance their daily
                 lives.

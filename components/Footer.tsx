@@ -28,7 +28,7 @@ export default function Footer() {
             viewport={{ once: true }}
             transition={{ duration: 0.5 }}
           >
-            <h3 className="footer-logo">PHLOX</h3>
+            <h3 className="footer-logo">EARMA</h3>
             <p className="footer-text">
               Your trusted destination for premium electronics and cutting-edge
               technology. We bring you the latest gadgets and innovations to
@@ -135,7 +135,7 @@ export default function Footer() {
         </div>
 
         <div className="footer-bottom">
-          <p>&copy; 2024 PHLOX. All rights reserved.</p>
+          <p>&copy; 2024 EARMA. All rights reserved.</p>
         </div>
       </div>
     </footer>

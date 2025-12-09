@@ -85,7 +85,7 @@ export default function ContactPage() {
                   </div>
                   <div className="method-details">
                     <h3>Email</h3>
-                    <p>info@phlox.com</p>
+                    <p>info@earma.com</p>
                   </div>
                 </motion.div>
 

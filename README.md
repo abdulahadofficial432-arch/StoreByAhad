@@ -1,4 +1,4 @@
-# PHLOX - E-Commerce Store
+# EARMA - E-Commerce Store
 
 A modern, fully functional e-commerce website built with Next.js, featuring animations, parallax effects, and a complete shopping experience.
 
